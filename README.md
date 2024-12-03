@@ -31,7 +31,7 @@ This is a simple app that allows you to search for posts by title and body. It u
 
 ## Live Demo
 
-You can view a live demo of the app [here](https://post-search-app-manthanank.vercel.app/)
+You can view a live demo of the app [here](https://post-search-app.vercel.app/)
 
 ## Show your support
 
